@@ -66,8 +66,8 @@ function App() {
                 height="40"
               />
               <div className='ms-3 text-left'>
-                <span className="block text-base font-medium">Ahmad Othmani</span>
-                <span className="block text-sm text-gray-600">Hello brother</span>
+                <span className="block text-base font-medium">Jonh Rerter</span>
+                <span className="block text-sm text-gray-600">{ messages.at(-1) }</span>
               </div>
             </a>
 
@@ -87,7 +87,7 @@ function App() {
                 height="40"
               />
               <div className="text-xl text-left m-2">
-                Ahmad Othmani
+                Jonh Rerter
               </div>
             </div>
 
